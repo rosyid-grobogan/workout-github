@@ -1,7 +1,13 @@
 # Catatanku
+
 ## Get Started
 ```
 $ git init
+```
+
+## Git Version
+```
+$ git --version
 ```
 
 ## push project
@@ -12,7 +18,8 @@ $ git push origin master
 ```
 ## clone 
 ```
-$ git clone ...
+$ git clone <url_github>
+$ git clone git@github.com:masrosyidridho/workout-github.git
 ```
 ## 
 ```
@@ -22,4 +29,5 @@ $ git status
 
 ```
 $ git log --oneline
+// 0c9619c (HEAD -> master, origin/master) add readme.md
 ```

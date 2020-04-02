@@ -31,3 +31,17 @@ $ git status
 $ git log --oneline
 // 0c9619c (HEAD -> master, origin/master) add readme.md
 ```
+
+```
+$ git log --oneline --graph
+
+// * d775ab0 (HEAD -> master) add line catatanku
+// * 719e7c9 (origin/master) add note-github.md
+// * 0c9619c add readme.md
+
+```
+
+## whatis
+```
+$ git log --oneline
+```
